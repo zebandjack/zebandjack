@@ -1,1 +1,2 @@
 The first line is always the hardest to write.
+The second line is not too difficult
